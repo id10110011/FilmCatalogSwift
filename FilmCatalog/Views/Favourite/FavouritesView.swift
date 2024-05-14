@@ -23,7 +23,7 @@ struct FavouritesView: View {
                             .foregroundColor(.gray)
                             .padding(.bottom, 5)
                         
-                        Text("You can add some on the \"Cars\" tab")
+                        Text("You can add some on the \"Movies\" tab")
                             .font(.system(size: 20, weight: .bold))
                             .foregroundColor(.gray)
                             .padding(.bottom, 24)
